@@ -2,10 +2,12 @@
 
 ## Hola 👨‍💻
 
-Hola, soy **desarrollador web**, especializado en el stack MEAN y amante por lo Tech. 
-Desde hace 4 años empece con mi gusto por la programacion y ahora he encontrado un grupo de tecnologias que se adecuan perfectamente a mi. 
+Hola, soy **desarrollador web**.
+Desde hace 4 años empece con mi gusto por la programacion y he desarrollado mis habilidades de manera autodidacta.
+Me especializo en Backend y tengo buenos conocimientos en Fronted.
+Manejo el grupo de tecnologias MEAN y MERN.
 
-• Actualmente estoy trabajando en una empresa de desarrollo llamanda BM Software
+• Actualmente soy desarrollador web/software en BM Software
 
 • En mis tiempos libres sigo estudiando y desarrollando proyectos personales basados en el stack MEAN y tambien algo de MERN
 
