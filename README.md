@@ -4,7 +4,7 @@
 
 Hola, soy **desarrollador web**.
 Desde hace 4 años empece con mi gusto por la programacion y he desarrollado mis habilidades de manera autodidacta.
-Me especializo en Backend y tengo buenos conocimientos en Fronted.
+Desarrollador fullstack.
 Manejo el grupo de tecnologias MEAN y MERN.
 
 • Desarrollador Web Jr en BM Software
