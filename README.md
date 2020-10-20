@@ -7,7 +7,7 @@ Desde hace 4 años empece con mi gusto por la programacion y he desarrollado mis
 Desarrollador fullstack.
 Manejo el grupo de tecnologias MEAN y MERN.
 
-• Desarrollador Web Jr en BM Software
+• Desarrollador Fullstack en K Agencia SAS
 
 • Lenguajes base:
 
