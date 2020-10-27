@@ -20,7 +20,6 @@ Manejo el grupo de tecnologias MEAN y MERN.
   - Angular
   - Express
   - React
-  - Spring
   
 • Herramientas:
 
