@@ -24,7 +24,7 @@ Manejo el grupo de tecnologias MEAN y MERN.
 • Herramientas:
 
   - Editor de codigo: VS Code
-  - IDE: IntelliJ Idea
+  - IDE: IntelliJ Idea - WebStorm
   - Documentacion: Notion.so
   - Flujo de actividades: Trello - Yodiz
 
