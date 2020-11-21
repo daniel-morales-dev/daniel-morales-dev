@@ -14,6 +14,8 @@ Manejo el grupo de tecnologias MEAN y MERN.
   - Java
   - JavaScript ⭐
   - PHP 7
+  - Node.Js
+  - React
   
 • Frameworks:
   
