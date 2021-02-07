@@ -5,16 +5,16 @@
 Hola, soy **desarrollador web**.
 Desde hace 4 años empece con mi gusto por la programacion y he desarrollado mis habilidades de manera autodidacta.
 Desarrollador fullstack.
-Manejo el grupo de tecnologias MEAN y MERN.
+Manejo el grupo de tecnologias MERN.
 
 • Desarrollador Fullstack en K Agencia SAS
 
 • Lenguajes base:
 
+  - JavaScript ⭐ (Node.Js ⭐)
   - Java
-  - JavaScript ⭐
   - PHP 7
-  - Node.Js ⭐
+  - Python
   
 • Bases de datos:
 
