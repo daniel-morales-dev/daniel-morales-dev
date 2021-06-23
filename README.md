@@ -2,7 +2,8 @@
 
 ## Hola 👨‍💻
 
-Hola, soy **desarrollador*.
+Hola, soy **desarrollador**.
+
 Me especializo en backend y tengo buenos conocimientos en frontend. Llevo 4 años programando y casi dos años de experiencia laboral.
 Me gusta realizar mis propios proyectos y tratar de innovar en la forma en la cual los desarrollo.
 
