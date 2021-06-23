@@ -2,10 +2,9 @@
 
 ## Hola 👨‍💻
 
-Hola, soy **desarrollador web**.
-Desde hace 4 años empece con mi gusto por la programacion y he desarrollado mis habilidades de manera autodidacta.
-Desarrollador fullstack.
-Manejo el grupo de tecnologias MERN.
+Hola, soy **desarrollador*.
+Me especializo en backend y tengo buenos conocimientos en frontend. Llevo 4 años programando y casi dos años de experiencia laboral.
+Me gusta realizar mis propios proyectos y tratar de innovar en la forma en la cual los desarrollo.
 
 • Desarrollador Fullstack en K Agencia SAS
 
@@ -19,20 +18,13 @@ Manejo el grupo de tecnologias MERN.
 • Bases de datos:
 
   - MongoDB
-  - MySQL
+  - MySQL, PostgreSQL
   
 • Frameworks:
   
   - Angular
   - Express
   - React
-  
-• Herramientas:
-
-  - Editor de codigo: VS Code
-  - IDE: IntelliJ Idea - WebStorm
-  - Documentacion: Notion.so
-  - Flujo de actividades: Trello - Yodiz
 
 ![Se1juro's github stats](https://github-readme-stats.vercel.app/api?username=Se1juro&show_icons=true&theme=radical)
 
