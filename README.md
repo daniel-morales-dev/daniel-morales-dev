@@ -23,9 +23,8 @@ Me gusta realizar mis propios proyectos y tratar de innovar en la forma en la cu
   
 • Frameworks:
   
-  - Angular
-  - Express
-  - React
+  - Express ⭐
+  - React ⭐
 
 ![Se1juro's github stats](https://github-readme-stats.vercel.app/api?username=Se1juro&show_icons=true&theme=radical)
 
