@@ -12,8 +12,8 @@ Manejo el grupo de tecnologias MERN.
 • Lenguajes base:
 
   - JavaScript ⭐ (Node.Js ⭐)
+  - TypeScript ⭐
   - Java
-  - PHP 7
   - Python
   
 • Bases de datos:
