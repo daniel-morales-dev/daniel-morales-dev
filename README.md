@@ -13,7 +13,6 @@ Me gusta realizar mis propios proyectos y tratar de innovar en la forma en la cu
 
   - JavaScript ⭐ (Node.Js ⭐)
   - TypeScript ⭐
-  - Java
   - Python
   
 • Bases de datos:
@@ -21,7 +20,7 @@ Me gusta realizar mis propios proyectos y tratar de innovar en la forma en la cu
   - MongoDB
   - MySQL, PostgreSQL
   
-• Frameworks:
+• Frameworks - Librerias:
   
   - Express ⭐
   - React ⭐
