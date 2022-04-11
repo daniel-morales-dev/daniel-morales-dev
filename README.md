@@ -2,10 +2,7 @@
 
 ## Hola 👨‍💻
 
-Hola, soy **desarrollador**.
-
-Me especializo en backend y tengo buenos conocimientos en frontend. Llevo 4 años programando y casi dos años de experiencia laboral.
-Me gusta realizar mis propios proyectos y tratar de innovar en la forma en la cual los desarrollo.
+Hola, soy **desarrollador** de software, con más de 2 años de experiencia laboral, manejo el stack MERN, mi fuerte es el backend, especificamente NOdeJs con Typescript, pero me apasiona también maquetar y darle vida a los sitios web con React y SASS. Estoy en proceso de aprender Python y GO, me apasionan las nuevas tecnologías y estoy en camino a ser un gran líder.
 
 • Desarrollador Fullstack en K Agencia SAS
 
