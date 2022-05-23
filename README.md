@@ -21,6 +21,9 @@ Hola, soy **desarrollador** de software, con más de 2 años de experiencia labo
   
   - Express ⭐
   - React ⭐
+  
+• Tecnologias:
+  - Docker
 
 ![Se1juro's github stats](https://github-readme-stats.vercel.app/api?username=Se1juro&show_icons=true&theme=radical)
 
