@@ -2,31 +2,26 @@
 
 ## Hola 👨‍💻
 
-Hola, soy **desarrollador** de software, con más de 2 años de experiencia laboral, manejo el stack MERN, mi fuerte es el backend, especificamente NOdeJs con Typescript, pero me apasiona también maquetar y darle vida a los sitios web con React y SASS. Estoy en proceso de aprender Python y GO, me apasionan las nuevas tecnologías y estoy en camino a ser un gran líder.
+Hola, soy **desarrollador** de software, con más de 2 años de experiencia laboral desarrollando aplicaciones escalables y extraordinarias para todo tipo de usuarios.
 
 • Desarrollador Fullstack en **Talenta**
 
-• Lenguajes base:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se1juro&show_icons=true&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
-  - JavaScript ⭐ (Node.Js ⭐)
-  - TypeScript ⭐
-  - Python
-  
-• Bases de datos:
+- **Principales tecnologias**
 
-  - MongoDB
-  - MySQL, PostgreSQL
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Tecnologias](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   
-• Frameworks - Librerias:
-  
-  - Express ⭐
-  - React ⭐
-  
-• Tecnologias:
+- **Otras tecnologias:**
   - Docker
 
 ![Se1juro's github stats](https://github-readme-stats.vercel.app/api?username=Se1juro&show_icons=true&theme=radical)
-
-#### Contacto 
-
-**Email**: mralejo99@gmail.com 
