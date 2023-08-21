@@ -2,7 +2,7 @@
 
 ## Hola 👨‍💻
 
-Hola, soy **desarrollador** de software, con más de 2 años de experiencia laboral desarrollando aplicaciones escalables y extraordinarias para todo tipo de usuarios.
+Hola, soy **desarrollador** de software, con 3 años de experiencia laboral desarrollando aplicaciones escalables y extraordinarias para todo tipo de usuarios.
 
 • Desarrollador Fullstack en **Talenta**
 
