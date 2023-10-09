@@ -1,8 +1,6 @@
 # Daniel Morales - @Se1juro:
 
-## Hola 👨‍💻
-
-Hola, soy **desarrollador** de software, con 3 años de experiencia laboral desarrollando aplicaciones escalables y extraordinarias para todo tipo de usuarios.
+Soy **desarrollador** de software, con 3 años de experiencia laboral enfocado en tecnologias JavaScript.
 
 • Desarrollador Fullstack en **Talenta**
 
