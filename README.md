@@ -1,12 +1,17 @@
-# Daniel Morales - @Se1juro:
+## 👨‍💻 Backend Developer
 
-Soy **desarrollador** de software, con 3 años de experiencia laboral enfocado en tecnologias JavaScript.
+With over 3 years of experience in backend development, I specialize in:
 
-• Desarrollador Fullstack en **Talenta**
+- **TypeScript** 🚀
+- **Node.js** 🔧
+- **NestJS** 🌐
+- **Docker** 🐳
+
+I’m passionate about building scalable and efficient backend systems. Let's connect and collaborate!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se1juro&show_icons=true&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Principales tecnologias**
+- **Stack**
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -19,7 +24,7 @@ Soy **desarrollador** de software, con 3 años de experiencia laboral enfocado e
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   
-- **Otras tecnologias:**
+- **More skills:**
   - Docker
   - AWS
 
