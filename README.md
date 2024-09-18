@@ -9,7 +9,7 @@ With over 3 years of experience in backend development, I specialize in:
 
 I’m passionate about building scalable and efficient backend systems. Let's connect and collaborate!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se1juro&show_icons=true&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morales-dev&show_icons=true&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Stack**
 
@@ -28,4 +28,4 @@ I’m passionate about building scalable and efficient backend systems. Let's co
   - Docker
   - AWS
 
-![Se1juro's github stats](https://github-readme-stats.vercel.app/api?username=Se1juro&show_icons=true&theme=radical)
+![daniel-morales-dev's github stats](https://github-readme-stats.vercel.app/api?username=daniel-morales-dev&show_icons=true&theme=radical)
