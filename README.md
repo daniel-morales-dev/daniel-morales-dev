@@ -6,6 +6,8 @@ With over 3 years of experience in backend development, I specialize in:
 - **Node.js** 🔧
 - **NestJS** 🌐
 - **Docker** 🐳
+- **Serverless**
+- **AWS**
 
 I’m passionate about building scalable and efficient backend systems. Let's connect and collaborate!
 
