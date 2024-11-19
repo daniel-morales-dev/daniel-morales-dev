@@ -24,9 +24,5 @@ I’m passionate about building scalable and efficient backend systems. Let's co
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  
-- **More skills:**
-  - Docker
-  - AWS
 
 ![daniel-morales-dev's github stats](https://github-readme-stats.vercel.app/api?username=daniel-morales-dev&show_icons=true&theme=radical)
