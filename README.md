@@ -11,7 +11,7 @@ With over 3 years of experience in backend development, I specialize in:
 
 I’m passionate about building scalable and efficient backend systems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morales-dev&show_icons=true&theme=dracula&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morales-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Stack**
 
