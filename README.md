@@ -11,7 +11,7 @@ With over 3 years of experience in backend development, I specialize in:
 
 I’m passionate about building scalable and efficient backend systems.
 
-![daniel-morales-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morales-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![daniel-morales-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-morales-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=tsql)
 
 - **Stack**
 
