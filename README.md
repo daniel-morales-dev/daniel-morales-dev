@@ -25,4 +25,4 @@ I’m passionate about building scalable and efficient backend systems.
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![daniel-morales-dev's github stats](https://github-readme-stats.vercel.app/api?username=daniel-morales-dev&show_icons=true&theme=radical)
+![daniel-morales-dev's Stats](https://github-readme-stats.vercel.app/api?username=daniel-morales-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
