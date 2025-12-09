@@ -43,7 +43,7 @@ I’m passionate about building scalable and efficient backend systems.
 
 I have contributed to building:
 
-- [**Magneto**](https://magneto.site/) 🧲 - A job platform and HR management system.
+- [**Magneto**](https://www.magneto365.com/co/trabajos/buscar) 🧲 - A job platform and HR management system.
 - [**Alegra**](https://www.alegra.com/) 📊 - Cloud-based accounting and administrative software.
 
 
